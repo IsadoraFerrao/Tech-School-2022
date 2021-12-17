@@ -1,0 +1,20 @@
+@use '../custom' as *;
+
+// GRADIENT MIXIN 
+@mixin gradient {
+    background: red;
+}
+
+// ABSOLUTE CENTER 
+@mixin absoluteCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+// TRANSITION PROPERTY 
+@mixin transitionProperty {
+    transition-duration: 1s;
+    transition-property: all;
+}
