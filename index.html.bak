@@ -95,7 +95,7 @@
         </div>
         <div class="col-md-4 col-lg-2">
           <div class="campanies__logo-box shadow-sm">
-            <img src="images/campanies/campany-2.png" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid">
+            <img src="images/campanies/campany2.png" alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
@@ -324,19 +324,19 @@
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="portfolio-box shadow">
-          <img src="images/portfolio/022.jpg" alt="portfolio 2 image" title="portfolio 2 picture" class="img-fluid">
+          <img src="images/portfolio/0222.jpg" alt="portfolio 2 image" title="portfolio 2 picture" class="img-fluid">
           
         </div>
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="portfolio-box shadow">
-          <img src="images/portfolio/033.jpg" alt="portfolio 3 image" title="portfolio 3 picture" class="img-fluid">
+          <img src="images/portfolio/0333.jpg" alt="portfolio 3 image" title="portfolio 3 picture" class="img-fluid">
           
         </div>
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="portfolio-box shadow">
-          <img src="images/portfolio/042.jpg" alt="portfolio 4 image" title="portfolio 4 picture" class="img-fluid">
+          <img src="images/portfolio/0151.jpg" alt="portfolio 4 image" title="portfolio 4 picture" class="img-fluid">
           
         </div>
       </div>
@@ -360,7 +360,7 @@
       </div>
       <div class="col-lg-4 col-md-6">
         <div class="portfolio-box shadow">
-          <img src="images/portfolio/08.jpg" alt="portfolio 8 image" title="portfolio 8 picture" class="img-fluid">
+          <img src="images/portfolio/088.jpg" alt="portfolio 8 image" title="portfolio 8 picture" class="img-fluid">
          
         </div>
       </div>
@@ -369,6 +369,51 @@
           <img src="images/portfolio/09.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
           
         </div>
+      </div>
+	   <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/0888.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	   <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/0999.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	  <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/0100.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	  <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/0777.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	  <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/0626.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	  <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/898.png" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	  <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/0525.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	  	  <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/03.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+        </div>
+      </div>
+	  <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/0045.png" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+       </div>
       </div>
     </div>
   </div>
