@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>TECH SCHOOL 2021</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style-main.css">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
     <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
@@ -31,6 +31,7 @@
           <li class="nav-item"><a class="nav-link" href="#testimonials">Programação</a></li>
           <li class="nav-item"><a class="nav-link" href="#faq">Time</a></li>
           <li class="nav-item"><a class="nav-link" href="#portfolio">Patrocinadores</a></li>
+		  <li class="nav-item"><a class="nav-link" href="#faq">Tech na Mídia</a></li>
           </li>
         </ul>
         <button type="button" class="rounded-pill btn-rounded">
@@ -135,8 +136,8 @@
     <div class="row pt-2 pb-2 mt-0 mb-3">
       <div class="col-md-6 border-right">
         <div class="bg-white p-3">
-          <h2 class="fw-bold text-center">
-           Segura o coração! Em 2022 será realizada a 4ª edição da Tech School !
+          <h2 style="color:#F7029E;" class="fw-bold text-center">
+           Segura o <a> coração! </a> Em 2022 será realizada a 4ª edição da Tech School !
           </h2>
         </div>
       </div>
@@ -412,7 +413,7 @@
       </div>
 	  <div class="col-lg-4 col-md-6">
         <div class="portfolio-box shadow">
-          <img src="images/portfolio/0045.png" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
+          <img src="images/portfolio/0045.jpg" alt="portfolio 9 image" title="portfolio 9 picture" class="img-fluid">
        </div>
       </div>
     </div>
