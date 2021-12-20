@@ -574,6 +574,12 @@ progress {
   height: auto;
 }
 
+.img-fluid-topo {
+  max-width: 80%;
+  height: auto;
+}
+
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -10982,7 +10988,7 @@ textarea.form-control-lg {
   color: red;
 }
 .testimonials__card .ratings i {
-  color: #ffff00;
+  color: #FF8C00;
   font-size: 1rem;
 }
 .testimonials__picture {

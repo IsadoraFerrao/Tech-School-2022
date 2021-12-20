@@ -137,7 +137,7 @@
       <div class="col-md-6 border-right">
         <div class="bg-white p-3">
           <h2 style="color:#F7029E;" class="fw-bold text-center">
-           Segura o <a> coração! </a> Em 2022 será realizada a 4ª edição da Tech School !
+           Segura o <a style="color:red" > coração! </a> Em 2022 será realizada a 4ª edição da Tech School !
           </h2>
         </div>
       </div>
@@ -171,7 +171,7 @@
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4 text-end">
         <div class="services__pic">
-          <img src="images/services/intro.png" alt="marketing illustration" class="img-fluid">
+          <img src="images/services/intro.png" alt="marketing illustration" class="img-fluid-topo">
         </div>
       </div>
     </div>
@@ -192,7 +192,7 @@
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4 text-end">
         <div class="services__pic">
-          <img src="images/services/program.png" alt="cloud hosting illustration" class="img-fluid">
+          <img src="images/services/program.png" alt="cloud hosting illustration" class="img-fluid-topo">
         </div>
       </div>
     </div>
@@ -200,12 +200,7 @@
   
     <!-- START THE WEB DEVELOPMENT CONTENT  -->
     <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4 text-start">
-        <div class="services__pic">
-          <img src="images/services/diana.png" alt="web development illustration" class="img-fluid">
-        </div>
-      </div>
-      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
+	  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
         <div class="services__content">
           <div class="icon d-block fas fa-code"></div>
           <h3 class="display-3--title mt-1">Campeãs da America Latina</h3>
@@ -215,6 +210,13 @@
          
         </div>
       </div>
+	
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4 text-start">
+        <div class="services__pic">
+          <img src="images/services/diana.png" alt="web development illustration" class="img-fluid-topo">
+        </div>
+      </div>
+
     </div>
    
 </section>

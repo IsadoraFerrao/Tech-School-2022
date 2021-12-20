@@ -574,6 +574,12 @@ progress {
   height: auto;
 }
 
+.img-fluid-topo {
+  max-width: 90%;
+  height: auto;
+}
+
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
