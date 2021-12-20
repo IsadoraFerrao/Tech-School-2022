@@ -27,11 +27,11 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.html">Início</a></li>
-          <li class="nav-item"><a class="nav-link" href="#services">Tech School</a></li>
-          <li class="nav-item"><a class="nav-link" href="#testimonials">Programação</a></li>
-          <li class="nav-item"><a class="nav-link" href="#faq">Time</a></li>
-          <li class="nav-item"><a class="nav-link" href="#portfolio">Patrocinadores</a></li>
-		  <li class="nav-item"><a class="nav-link" href="#faq">Tech na Mídia</a></li>
+          <li class="nav-item"><a class="nav-link" href="#Tech">Tech School</a></li>
+          <li class="nav-item"><a class="nav-link" href="Programacao.html">Programação</a></li>
+          <li class="nav-item"><a class="nav-link" href="Time.html">Time</a></li>
+          <li class="nav-item"><a class="nav-link" href="Patrocinadores.html">Patrocinadores</a></li>
+		  <li class="nav-item"><a class="nav-link" href="Midia.html">Tech na Mídia</a></li>
           </li>
         </ul>
         <button type="button" class="rounded-pill btn-rounded">
@@ -101,22 +101,22 @@
         </div>
         <div class="col-md-4 col-lg-2">
           <div class="campanies__logo-box shadow-sm">
-            <img src="images/campanies/campany-3.png" alt="Campany 3 logo" title="Campany 3 Logo" class="img-fluid">
+            <img src="images/campanies/em-breve.png" alt="Campany 3 logo" title="Campany 3 Logo" class="img-fluid">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
           <div class="campanies__logo-box shadow-sm">
-            <img src="images/campanies/campany-4.png" alt="Campany 4 logo" title="Campany 4 Logo" class="img-fluid">
+            <img src="images/campanies/em-breve.png" alt="Campany 4 logo" title="Campany 4 Logo" class="img-fluid">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
           <div class="campanies__logo-box shadow-sm">
-            <img src="images/campanies/campany-5.png" alt="Campany 5 logo" title="Campany 5 Logo" class="img-fluid">
+            <img src="images/campanies/em-breve.png" alt="Campany 5 logo" title="Campany 5 Logo" class="img-fluid">
           </div>
         </div>
         <div class="col-md-4 col-lg-2">
           <div class="campanies__logo-box shadow-sm">
-            <img src="images/campanies/campany-6.png" alt="Campany 6 logo" title="Campany 6 Logo" class="img-fluid">
+            <img src="images/campanies/em-breve.png" alt="Campany 6 logo" title="Campany 6 Logo" class="img-fluid">
           </div>
         </div>
       </div>
@@ -126,7 +126,7 @@
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////
                          START SECTION 4 - THE SERVICES  
 ///////////////////////////////////////////////////////////////////////////////////////////////////-->
-<section id="services" class="services">
+<section id="Tech" class="Tech">
   <div class="container">
     <div class="row text-center">
       <h1 class="display-3 fw-bold">Tech School 2021 </h1>
@@ -423,7 +423,7 @@
 <!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////
               START SECTION 8 - GET STARTED  
 /////////////////////////////////////////////////////////////////////////////////////////////////////////-->
-<!--<section id="contact" class="get-started">
+-<section id="contact" class="get-started">
   <div class="container">
     <div class="row text-center">
       <h1 class="display-3 fw-bold text-capitalize">Get started</h1>
@@ -434,7 +434,7 @@
     </div>-->
 
     <!-- START THE CTA CONTENT  -->
-   <!-- <div class="row text-white">
+   <div class="row text-white">
       <div class="col-12 col-lg-6 gradient shadow p-3">
         <div class="cta-info w-100">
           <h4 class="display-4 fw-bold">100% Satisfaction Guaranteed</h4>
@@ -476,7 +476,7 @@
       </div>
     </div>
   </div>
-</section>-->
+</section>
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////
                            START SECTION 9 - THE FOOTER  
